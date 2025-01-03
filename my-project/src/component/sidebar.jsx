@@ -71,7 +71,7 @@ export default function Sidebar() {
               >
                 <img
                   src={msg.avatar}
-                  alt={msg.name}
+                  alt="loading"
                   className="w-12 h-12 rounded-full"
                 />
                 <div className="flex-grow">
