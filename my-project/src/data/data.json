@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "name": "Oğuz Yağız Kara",
+      "platform": "Instagram",
+      "time": "5m",
+      "preview": "I keep getting \"error while creating a new pop up\" for the first time setup.",
+      "avatar": "https://avatar.iran.liara.run/public/32",
+      "unread": true,
+      "revenue": 3452,
+      "web_visits": 42,
+      "email": "oguz@example.com",
+      "phone": "+1234567890",
+      "last_visited": "11:59 PM",
+      "location":"turkey"
+    },
+    {
+      "id": 2,
+      "name": "George Klein",
+      "platform": "Messenger",
+      "time": "1h 54m",
+      "preview": "Wow, this is really epic man! Thanks for sharing.",
+      "avatar": "https://avatar.iran.liara.run/public/28",
+      "unread": false,
+      "revenue": 1300,
+      "web_visits": 23,
+      "email": "george@example.com",
+      "phone": "+9876543210",
+      "last_visited": "9:03 AM",
+      "location":"turkey"
+    },
+    {
+      "id": 3,
+      "name": "847-401-1944",
+      "platform": "WhatsApp",
+      "time": "6h 21m",
+      "preview": "Haha oh man, this is amazing!",
+      "avatar": "https://avatar.iran.liara.run/public/40",
+      "unread": true,
+      "revenue": 1500,
+      "web_visits": 30,
+      "email": "8474011944@example.com",
+      "phone": "+18474011944",
+      "last_visited": "1:05 PM",
+      "location":"turkey"
+    },
+    {
+      "id": 4,
+      "name": "Erşad Başbağ",
+      "platform": "Instagram",
+      "time": "6h 21m",
+      "preview": "There will be changes to next week's presentation due to the recent policy.",
+      "avatar": "https://avatar.iran.liara.run/public/14",
+      "unread": false,
+      "revenue": 4563,
+      "web_visits": 95,
+      "email": "ersad@example.com",
+      "phone": "+9876543211",
+      "last_visited": "7:26 PM",
+      "location":"turkey"
+    }
+  ]
+  
