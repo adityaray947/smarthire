@@ -23,6 +23,7 @@ export default function Information({ contact }) {
       <h1 className="text-lg font-semibold text-center">{contact.name}</h1>
       <p className="text-center">{contact.last_visited}</p>
       <p className="text-center">{contact.location}</p>
+      <p></p>
 
       <div className="flex justify-around my-4">
         <div className="flex flex-col items-center">
